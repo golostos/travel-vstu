@@ -6,7 +6,7 @@
 
 Заходим в папку с сервером:
 
-`cd vstu-first-web/server`
+`cd travel-vstu`
 
 Устанавливаем все пакеты из зависимостей файла package.json:
 
