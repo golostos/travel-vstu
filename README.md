@@ -2,7 +2,7 @@
 
 Скачиваем проект себе (команды выполняем через консоль git bash. git должен быть установлен):
 
-`git clone https://github.com/golostos/vstu-first-web.git`
+`git clone https://github.com/golostos/travel-vstu.git`
 
 Заходим в папку с сервером:
 
