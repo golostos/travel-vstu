@@ -9,8 +9,8 @@ const path = require('path')
 
 const port = process.env.PORT || 3000
 
-const sequelize = new Sequelize('global_trip', 'trip_user', 'user12345', {
-    host: 'localhost',
+const sequelize = new Sequelize('smm02oeosrxs0cku', 'zvsufyjzkjgsiueh', 'fq7pw0nns648zcxi', {
+    host: 'd3y0lbg7abxmbuoi.chr7pe7iynqr.eu-west-1.rds.amazonaws.com',
     dialect: 'mysql'
 });
 
