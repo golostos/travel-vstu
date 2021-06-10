@@ -1,0 +1,16 @@
+- Frontend (browser)
+    - HTML (content)
+    - CSS (visual, style)
+    - JavaScript (JS) (logic)
+
+- Backend (server) => Frontend 
+    - simple HTTP - static server (HTML, CSS, JS)
+    - interpretator (programming language)
+        - Examples:
+            - PHP (laravel, simfony)
+            - Java (Spring) - Enterprice
+            - NodeJS (Express, NestJS, NextJS) - fullstack
+        - Templater (PHP) (server rendering) (DB - mysql)
+            - browser => request page => server => mysql data => dinamic generate html => browser => Frontend (static CSS, JS)
+        - API (application programming interface) HTTP - AJAX requests
+            - Frontend => request data => server => mysql data => AJAX response => Frontend (js rendering)
