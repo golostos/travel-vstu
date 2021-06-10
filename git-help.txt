@@ -1,0 +1,12 @@
+git init
+git add .
+git status
+git commit -m "First commit"
+git log
+
+git remote remove origin
+git remote add origin https://github.com/golostos/travel-vstu.git
+git push origin master
+
+heroku git:remote -a travel-vstu
+git push heroku master
